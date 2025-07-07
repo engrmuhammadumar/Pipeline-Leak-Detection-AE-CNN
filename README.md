@@ -6,7 +6,7 @@ Implementation of the paper "Stockwell Transform and CNN-Based Pipeline Leak Det
 
 This repository contains the official implementation of the paper:
 
-> **Leak Detection in Fluid Pipelines using Acoustic Emission and CNN-Based Image Features**  
+> **Stockwell Transform and CNN-Based Pipeline Leak Detection Using Sobel-Filtered Acoustic Emission Signals**  
 > Accepted at **ICCIIoT 2024**, UET Peshawar
 
 ---
@@ -30,7 +30,6 @@ Pipeline leakage poses a serious risk to environmental and operational safety. T
 |----------------|--------------------------------------------------------------|
 | `transforms/`  | Scripts for Stockwell Transform and Sobel filtering          |
 | `models/`      | CNN architecture and training scripts                        |
-| `notebooks/`   | Jupyter notebooks for visualization and debugging            |
 | `images/`      | All visuals and result plots                                 |
 | `paper/`       | Conference paper and supplementary documents                 |
 
